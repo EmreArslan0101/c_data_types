@@ -1,0 +1,4 @@
+*.exe
+dynamic_memory_test.c
+LICENSE
+.git
